@@ -1,0 +1,276 @@
+{
+    "sensors": {
+        "elec": [ 
+            {
+				"department": "Engineering",
+				"faculty": "Engineering",
+				"school": "Technology",
+                "monthly-readings": [
+                    "B031-eng-2008-08.json"
+                ], 
+                "path": "/energyData/B031-eng-"
+            }, 
+            {
+				"department": "Technology",
+				"faculty": "",
+				"school": "Technology",
+                "monthly-readings": [
+                    "B031-tech-2008-08.json"
+                ], 
+                "path": "/energyData/B031-tech-"
+            }, 
+            {
+				"department": "Engineering",
+				"faculty": "Engineering",
+				"school": "Technology",
+                "monthly-readings": [
+                    "B032-eng-2008-08.json"
+                ], 
+                "path": "/energyData/B032-eng-"
+            }, 
+            {
+				"department": "Engineering",
+				"faculty": "Engineering",
+				"school": "Technology",
+                "monthly-readings": [
+                    "C012-eng-2008-08.json"
+                ], 
+                "path": "/energyData/C012-eng-"
+            }, 
+            {
+				"department": "Engineering",
+				"faculty": "Engineering",
+				"school": "Technology",
+				"monthly-readings": [
+                    "C018-eng-2008-08.json"
+                ], 
+                "path": "/energyData/C018-eng-"
+            }, 
+            {
+"department": "Judge Business School",
+"faculty": "Business & Management",
+"school": "Technology",
+                "monthly-readings": [
+                    "E019-jbs-2008-08.json"
+                ], 
+                "path": "/energyData/E019-jbs-"
+            }, 
+            {
+"department": "Biotechnology, Institute of",
+"faculty": "Chemical Engineering & Biotechnology",
+"school": "Technology",
+                "monthly-readings": [
+                    "E021-ceb-2008-08.json"
+                ], 
+                "path": "/energyData/E021-ceb-"
+            }, 
+            {
+"department": "Judge Business School",
+"faculty": "Business & Management",
+"school": "Technology",
+                "monthly-readings": [
+                    "E021-jbs-2008-08.json"
+                ], 
+                "path": "/energyData/E021-jbs-"
+            }, 
+            {
+"department": "Biotechnology, Institute of",
+"faculty": "Chemical Engineering & Biotechnology",
+"school": "Technology",
+                "monthly-readings": [
+                    "E025-ceb-2008-08.json"
+                ], 
+                "path": "/energyData/E025-ceb-"
+            }, 
+            {
+"department": "Cambridge Programme for Industry",
+"faculty": "",
+"school": "Technology",
+                "monthly-readings": [
+                    "E026-cpsl-2008-08.json"
+                ], 
+                "path": "/energyData/E026-cpsl-"
+            }, 
+            {
+"department": "Judge Business School",
+"faculty": "Business & Management",
+"school": "Technology",
+                "monthly-readings": [
+                    "E027-jbs-2008-08.json"
+                ], 
+                "path": "/energyData/E027-jbs-"
+            }, 
+            {
+"department": "Cambridge Programme for Industry",
+"faculty": "",
+"school": "Technology",
+                "monthly-readings": [
+                    "E028-cpsl-2008-08.json"
+                ], 
+                "path": "/energyData/E028-cpsl-"
+            }, 
+            {
+"department": "Judge Business School",
+"faculty": "Business & Management",
+"school": "Technology",
+                "monthly-readings": [
+                    "E052-jbs-2008-08.json"
+                ], 
+                "path": "/energyData/E052-jbs-"
+            }, 
+            {
+"department": "Biotechnology, Institute of",
+"faculty": "Chemical Engineering & Biotechnology",
+"school": "Technology",
+                "monthly-readings": [
+                    "E054-ceb-2008-08.json"
+                ], 
+                "path": "/energyData/E054-ceb-"
+            }, 
+            {
+"department": "Chemical Engineering",
+"faculty": "Chemical Engineering & Biotechnology",
+"school": "Technology",
+                "monthly-readings": [
+                    "F130-ceb-2008-08.json"
+                ], 
+                "path": "/energyData/F130-ceb-"
+            }, 
+            {
+"department": "Computer Laboratory",
+"faculty": "Computer Science & Technology",
+"school": "Technology",
+                "monthly-readings": [
+                    "M027-cl-2008-08.json"
+                ], 
+                "path": "/energyData/M027-cl-"
+            }, 
+            {
+"department": "Chemical Engineering",
+"faculty": "Chemical Engineering & Biotechnology",
+"school": "Technology",
+                "monthly-readings": [
+                    "M034-ceb-2008-08.json"
+                ], 
+                "path": "/energyData/M034-ceb-"
+            }, 
+            {
+"department": "Chemical Engineering",
+"faculty": "Chemical Engineering & Biotechnology",
+"school": "Technology",
+                "monthly-readings": [
+                    "M035-ceb-2008-08.json"
+                ], 
+                "path": "/energyData/M035-ceb-"
+            }, 
+            {
+"department": "Chemical Engineering",
+"faculty": "Chemical Engineering & Biotechnology",
+"school": "Technology",
+                "monthly-readings": [
+                    "M036-ceb-2008-08.json"
+                ], 
+                "path": "/energyData/M036-ceb-"
+            }, 
+            {
+"department": "Engineering",
+"faculty": "Engineering",
+"school": "Technology",
+                "monthly-readings": [
+                    "M038-eng-2008-08.json"
+                ], 
+                "path": "/energyData/M038-eng-"
+            }, 
+            {
+"department": "Computer Laboratory",
+"faculty": "Computer Science & Technology",
+"school": "Technology",
+                "monthly-readings": [
+                    "M039-cl-2008-08.json"
+                ], 
+                "path": "/energyData/M039-cl-"
+            }, 
+            {
+"department": "Engineering",
+"faculty": "Engineering",
+"school": "Technology",
+                "monthly-readings": [
+                    "W017-eng-2008-08.json"
+                ], 
+                "path": "/energyData/W017-eng-"
+            }, 
+            {
+            "department": "Engineering",
+"faculty": "Engineering",
+"school": "Technology",
+                "monthly-readings": [
+                    "W042-eng-2008-08.json"
+                ], 
+                "path": "/energyData/W042-eng-"
+            }, 
+            {
+"department": "Engineering",
+"faculty": "Engineering",
+"school": "Technology",
+                "monthly-readings": [
+                    "W043-eng-2008-08.json"
+                ], 
+                "path": "/energyData/W043-eng-"
+            }, 
+            {
+"department": "Chemical Engineering",
+"faculty": "Chemical Engineering & Biotechnology",
+"school": "Technology",
+                "monthly-readings": [
+                    "W044-ceb-2008-08.json"
+                ], 
+                "path": "/energyData/W044-ceb-"
+            },
+            {
+                "school": "Technology", 
+                "faculty": "Computer Science & Technology", 
+                "department": "Computer Laboratory", 
+                "monthly-readings": [
+                    "W046-cl-2008-08.json"
+                ], 
+                "path": "/energyData/W046-cl-"
+            },
+            {
+                "school": "Technology", 
+                "faculty": "Engineering", 
+                "department": "Engineering", 
+                "monthly-readings": [
+                    "W046-eng-2008-08.json"
+                ], 
+                "path": "/energyData/W046-eng-"
+            },
+            {
+            "department": "Engineering",
+"faculty": "Engineering",
+"school": "Technology",
+                "monthly-readings": [
+                    "W048-eng-2008-08.json"
+                ], 
+                "path": "/energyData/W048-eng-"
+            }, 
+            {
+                "school": "Technology", 
+                "faculty": "", 
+                "department": "Nanoscience Centre", 
+                "monthly-readings": [
+                    "W054-nanoscience-2008-08.json"
+                ], 
+                "path": "/energyData/W054-nanoscience-"
+            },
+            {
+				"department": "Engineering",
+				"faculty": "Engineering",
+				"school": "Technology",
+                "monthly-readings": [
+                    "W074-eng-2010-08.json"
+                ], 
+                "path": "/energyData/W074-eng-"
+            }
+        ]
+    }
+}
