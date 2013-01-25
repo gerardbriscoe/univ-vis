@@ -1,6 +1,6 @@
 function JouleUIController(){ 
     this.errorIds = [];
-    this.errorTimeout = 4;
+    this.errorTimeout = 10;
     this.useWeather = false;
     this.showDiff = false;
     this.scaleSelection = 'scale';
