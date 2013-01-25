@@ -232,12 +232,12 @@
         var nodes = root.nodes();
         for(var i=0; i<nodes.length;i++){
             var nm = nodes[i].nodeName
-            //nodes[i].toggle();
+            if (nm!="Sensors" && nm!="Electricity") nodes[i].toggle();
             //alert(nodes[i].nodeName);
-            if (nm=="Business & Management") nodes[i].toggle();
-            else if (nm=="Chemical Engineering & Biotechnology") nodes[i].toggle();
-            else if (nm=="Computer Science & Technology") nodes[i].toggle();
-            else if (nm=="Engineering") nodes[i].toggle();
+            //if (nm=="Business & Management") nodes[i].toggle();
+            //else if (nm=="Chemical Engineering & Biotechnology") nodes[i].toggle();
+            //else if (nm=="Computer Science & Technology") nodes[i].toggle();
+            //else if (nm=="Engineering") nodes[i].toggle();
             //else if (nm=="South Corridor") nodes[i].toggle();
             //else if (nm=="East Corridor") nodes[i].toggle();
             //else if (nm=="West Corridor") nodes[i].toggle();
@@ -495,13 +495,14 @@
         var columns = [
             {id:"PlotColour", name:"Colour", field:"colour", width:46, formatter:GraphicalColourCellFormatter},
             {id:"Room", name:"Code", field:"buildingCode", width:67},
-            {id:"Description", name:"Name", field:"buildingName", width:150},
-            {id:"Site", name:"Site", field:"site", width:80},
-            {id:"Age", name:"Age", field:"age", width:55},
-            {id:"Coverage", name:"Area", field:"area", width:70},
-            {id:"kWSelected", name:"Avg kW Selected", field:"avgselected", width:115},
-            {id:"kWTotal", name:"Avg kW Total", field:"avgtotal", width:95},
-            {id:"TotalEnergy", name:"Total Energy (kWh)", field:"totalenergy", width:126},        ];
+            {id:"Description", name:"Name", field:"buildingName", width:145},
+            {id:"Site", name:"Site", field:"site", width:75},
+            {id:"Age", name:"Age", field:"age", width:40},
+            {id:"Staff", name:"Staff", field:"staff", width:40},
+            {id:"Coverage", name:"Area", field:"area", width:65},
+            {id:"kWSelected", name:"Avg kW Selected", field:"avgselected", width:110},
+            {id:"kWTotal", name:"Avg kW Total", field:"avgtotal", width:90},
+            {id:"TotalEnergy", name:"Total Energy (kWh)", field:"totalenergy", width:125},        ];
         
         var options = {
             enableCellNavigation: false,

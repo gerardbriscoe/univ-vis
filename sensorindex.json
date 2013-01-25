@@ -1,276 +1,4225 @@
+{"sensors": {"elec": [
 {
-    "sensors": {
-        "elec": [ 
-            {
-				"department": "Engineering",
-				"faculty": "Engineering",
-				"school": "Technology",
-                "monthly-readings": [
-                    "B031-eng-2008-08.json"
-                ], 
-                "path": "/energyData/B031-eng-"
-            }, 
-            {
-				"department": "Technology",
-				"faculty": "",
-				"school": "Technology",
-                "monthly-readings": [
-                    "B031-tech-2008-08.json"
-                ], 
-                "path": "/energyData/B031-tech-"
-            }, 
-            {
-				"department": "Engineering",
-				"faculty": "Engineering",
-				"school": "Technology",
-                "monthly-readings": [
-                    "B032-eng-2008-08.json"
-                ], 
-                "path": "/energyData/B032-eng-"
-            }, 
-            {
-				"department": "Engineering",
-				"faculty": "Engineering",
-				"school": "Technology",
-                "monthly-readings": [
-                    "C012-eng-2008-08.json"
-                ], 
-                "path": "/energyData/C012-eng-"
-            }, 
-            {
-				"department": "Engineering",
-				"faculty": "Engineering",
-				"school": "Technology",
-				"monthly-readings": [
-                    "C018-eng-2008-08.json"
-                ], 
-                "path": "/energyData/C018-eng-"
-            }, 
-            {
-"department": "Judge Business School",
-"faculty": "Business & Management",
-"school": "Technology",
-                "monthly-readings": [
-                    "E019-jbs-2008-08.json"
-                ], 
-                "path": "/energyData/E019-jbs-"
-            }, 
-            {
-"department": "Biotechnology, Institute of",
-"faculty": "Chemical Engineering & Biotechnology",
-"school": "Technology",
-                "monthly-readings": [
-                    "E021-ceb-2008-08.json"
-                ], 
-                "path": "/energyData/E021-ceb-"
-            }, 
-            {
-"department": "Judge Business School",
-"faculty": "Business & Management",
-"school": "Technology",
-                "monthly-readings": [
-                    "E021-jbs-2008-08.json"
-                ], 
-                "path": "/energyData/E021-jbs-"
-            }, 
-            {
-"department": "Biotechnology, Institute of",
-"faculty": "Chemical Engineering & Biotechnology",
-"school": "Technology",
-                "monthly-readings": [
-                    "E025-ceb-2008-08.json"
-                ], 
-                "path": "/energyData/E025-ceb-"
-            }, 
-            {
-"department": "Cambridge Programme for Industry",
+"school": "Central Administration",
 "faculty": "",
-"school": "Technology",
-                "monthly-readings": [
-                    "E026-cpsl-2008-08.json"
-                ], 
-                "path": "/energyData/E026-cpsl-"
-            }, 
-            {
-"department": "Judge Business School",
-"faculty": "Business & Management",
-"school": "Technology",
-                "monthly-readings": [
-                    "E027-jbs-2008-08.json"
-                ], 
-                "path": "/energyData/E027-jbs-"
-            }, 
-            {
-"department": "Cambridge Programme for Industry",
-"faculty": "",
-"school": "Technology",
-                "monthly-readings": [
-                    "E028-cpsl-2008-08.json"
-                ], 
-                "path": "/energyData/E028-cpsl-"
-            }, 
-            {
-"department": "Judge Business School",
-"faculty": "Business & Management",
-"school": "Technology",
-                "monthly-readings": [
-                    "E052-jbs-2008-08.json"
-                ], 
-                "path": "/energyData/E052-jbs-"
-            }, 
-            {
-"department": "Biotechnology, Institute of",
-"faculty": "Chemical Engineering & Biotechnology",
-"school": "Technology",
-                "monthly-readings": [
-                    "E054-ceb-2008-08.json"
-                ], 
-                "path": "/energyData/E054-ceb-"
-            }, 
-            {
-"department": "Chemical Engineering",
-"faculty": "Chemical Engineering & Biotechnology",
-"school": "Technology",
-                "monthly-readings": [
-                    "F130-ceb-2008-08.json"
-                ], 
-                "path": "/energyData/F130-ceb-"
-            }, 
-            {
-"department": "Computer Laboratory",
-"faculty": "Computer Science & Technology",
-"school": "Technology",
-                "monthly-readings": [
-                    "M027-cl-2008-08.json"
-                ], 
-                "path": "/energyData/M027-cl-"
-            }, 
-            {
-"department": "Chemical Engineering",
-"faculty": "Chemical Engineering & Biotechnology",
-"school": "Technology",
-                "monthly-readings": [
-                    "M034-ceb-2008-08.json"
-                ], 
-                "path": "/energyData/M034-ceb-"
-            }, 
-            {
-"department": "Chemical Engineering",
-"faculty": "Chemical Engineering & Biotechnology",
-"school": "Technology",
-                "monthly-readings": [
-                    "M035-ceb-2008-08.json"
-                ], 
-                "path": "/energyData/M035-ceb-"
-            }, 
-            {
-"department": "Chemical Engineering",
-"faculty": "Chemical Engineering & Biotechnology",
-"school": "Technology",
-                "monthly-readings": [
-                    "M036-ceb-2008-08.json"
-                ], 
-                "path": "/energyData/M036-ceb-"
-            }, 
-            {
-"department": "Engineering",
-"faculty": "Engineering",
-"school": "Technology",
-                "monthly-readings": [
-                    "M038-eng-2008-08.json"
-                ], 
-                "path": "/energyData/M038-eng-"
-            }, 
-            {
-"department": "Computer Laboratory",
-"faculty": "Computer Science & Technology",
-"school": "Technology",
-                "monthly-readings": [
-                    "M039-cl-2008-08.json"
-                ], 
-                "path": "/energyData/M039-cl-"
-            }, 
-            {
-"department": "Engineering",
-"faculty": "Engineering",
-"school": "Technology",
-                "monthly-readings": [
-                    "W017-eng-2008-08.json"
-                ], 
-                "path": "/energyData/W017-eng-"
-            }, 
-            {
-            "department": "Engineering",
-"faculty": "Engineering",
-"school": "Technology",
-                "monthly-readings": [
-                    "W042-eng-2008-08.json"
-                ], 
-                "path": "/energyData/W042-eng-"
-            }, 
-            {
-"department": "Engineering",
-"faculty": "Engineering",
-"school": "Technology",
-                "monthly-readings": [
-                    "W043-eng-2008-08.json"
-                ], 
-                "path": "/energyData/W043-eng-"
-            }, 
-            {
-"department": "Chemical Engineering",
-"faculty": "Chemical Engineering & Biotechnology",
-"school": "Technology",
-                "monthly-readings": [
-                    "W044-ceb-2008-08.json"
-                ], 
-                "path": "/energyData/W044-ceb-"
-            },
-            {
-                "school": "Technology", 
-                "faculty": "Computer Science & Technology", 
-                "department": "Computer Laboratory", 
-                "monthly-readings": [
-                    "W046-cl-2008-08.json"
-                ], 
-                "path": "/energyData/W046-cl-"
-            },
-            {
-                "school": "Technology", 
-                "faculty": "Engineering", 
-                "department": "Engineering", 
-                "monthly-readings": [
-                    "W046-eng-2008-08.json"
-                ], 
-                "path": "/energyData/W046-eng-"
-            },
-            {
-            "department": "Engineering",
-"faculty": "Engineering",
-"school": "Technology",
-                "monthly-readings": [
-                    "W048-eng-2008-08.json"
-                ], 
-                "path": "/energyData/W048-eng-"
-            }, 
-            {
-                "school": "Technology", 
-                "faculty": "", 
-                "department": "Nanoscience Centre", 
-                "monthly-readings": [
-                    "W054-nanoscience-2008-08.json"
-                ], 
-                "path": "/energyData/W054-nanoscience-"
-            },
-            {
-				"department": "Engineering",
-				"faculty": "Engineering",
-				"school": "Technology",
-                "monthly-readings": [
-                    "W074-eng-2010-08.json"
-                ], 
-                "path": "/energyData/W074-eng-"
-            }
-        ]
-    }
+"department": "Academic Division",
+"monthly-readings": ["A011-academic-2008-08.json"],
+"path": "/energyData/A011-academic-"
 }
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Central Administration shared facilities",
+"monthly-readings": ["A011-admin-2008-08.json"],
+"path": "/energyData/A011-admin-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Combination Rooms",
+"monthly-readings": ["A011-combinationrooms-2008-08.json"],
+"path": "/energyData/A011-combinationrooms-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Office of Communications",
+"monthly-readings": ["A011-communications-2008-08.json"],
+"path": "/energyData/A011-communications-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["A011-em-2008-08.json"],
+"path": "/energyData/A011-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["A011-embs-2008-08.json"],
+"path": "/energyData/A011-embs-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Finance Division",
+"monthly-readings": ["A011-finance-2008-08.json"],
+"path": "/energyData/A011-finance-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Human Resources Division",
+"monthly-readings": ["A011-hr-2008-08.json"],
+"path": "/energyData/A011-hr-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Management Information Services Division",
+"monthly-readings": ["A011-misd-2008-08.json"],
+"path": "/energyData/A011-misd-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Registrary's Office",
+"monthly-readings": ["A011-registrary-2008-08.json"],
+"path": "/energyData/A011-registrary-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Secretariat",
+"monthly-readings": ["A011-secretariat-2008-08.json"],
+"path": "/energyData/A011-secretariat-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Senate House",
+"monthly-readings": ["A012-senate-2008-08.json"],
+"path": "/energyData/A012-senate-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["B011-em-2008-08.json"],
+"path": "/energyData/B011-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["B011-embs-2008-08.json"],
+"path": "/energyData/B011-embs-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["B012-em-2008-08.json"],
+"path": "/energyData/B012-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["B012-embs-2008-08.json"],
+"path": "/energyData/B012-embs-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Board of Graduate Studies",
+"monthly-readings": ["B012-gradstud-2008-08.json"],
+"path": "/energyData/B012-gradstud-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Careers Service",
+"monthly-readings": ["B013-careers-2008-08.json"],
+"path": "/energyData/B013-careers-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Careers Service",
+"monthly-readings": ["B014-careers-2008-08.json"],
+"path": "/energyData/B014-careers-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "International Studies, Centre of",
+"monthly-readings": ["B014-cins-2008-08.json"],
+"path": "/energyData/B014-cins-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["B014-cmlt-2008-08.json"],
+"path": "/energyData/B014-cmlt-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Humanities and Social Sciences",
+"monthly-readings": ["B014-cshss-2008-08.json"],
+"path": "/energyData/B014-cshss-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Development Studies",
+"monthly-readings": ["B014-devstudies-2008-08.json"],
+"path": "/energyData/B014-devstudies-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Land Economy",
+"department": "Land Economy",
+"monthly-readings": ["B014-landecon-2008-08.json"],
+"path": "/energyData/B014-landecon-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Latin American Studies, Centre of",
+"monthly-readings": ["B014-latin-american-2008-08.json"],
+"path": "/energyData/B014-latin-american-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Politics and International Studies",
+"monthly-readings": ["B014-polis-2008-08.json"],
+"path": "/energyData/B014-polis-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Politics, Psychology, Sociology, Int Stud, Faculty",
+"monthly-readings": ["B014-ppsi-2008-08.json"],
+"path": "/energyData/B014-ppsi-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Social & Dev Psychology",
+"monthly-readings": ["B014-psychometrics-2008-08.json"],
+"path": "/energyData/B014-psychometrics-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "University Centre",
+"monthly-readings": ["B015-unicen-2008-08.json"],
+"path": "/energyData/B015-unicen-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Sports & Social Club",
+"monthly-readings": ["B016-socialclub-2008-08.json"],
+"path": "/energyData/B016-socialclub-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Land Economy",
+"department": "Land Economy",
+"monthly-readings": ["B018-landecon-2008-08.json"],
+"path": "/energyData/B018-landecon-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science (HSPS)",
+"department": "South Asian Studies, Centre of",
+"monthly-readings": ["B018-s-asian-2008-08.json"],
+"path": "/energyData/B018-s-asian-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "University Centre",
+"monthly-readings": ["B019-unicen-2008-08.json"],
+"path": "/energyData/B019-unicen-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["B021-em-2008-08.json"],
+"path": "/energyData/B021-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["B021-embs-2008-08.json"],
+"path": "/energyData/B021-embs-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["B023-esc-2008-08.json"],
+"path": "/energyData/B023-esc-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "",
+"department": "Biological Sciences",
+"monthly-readings": ["B031-bio-2008-08.json"],
+"path": "/energyData/B031-bio-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "International Studies, Centre of",
+"monthly-readings": ["B031-cins-2008-08.json"],
+"path": "/energyData/B031-cins-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Research in the Arts, Social Sciences & Humanities",
+"monthly-readings": ["B031-crassh-2008-08.json"],
+"path": "/energyData/B031-crassh-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "",
+"department": "Arts and Humanities",
+"monthly-readings": ["B031-csah-2008-08.json"],
+"path": "/energyData/B031-csah-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Humanities and Social Sciences",
+"monthly-readings": ["B031-cshss-2008-08.json"],
+"path": "/energyData/B031-cshss-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Development Studies",
+"monthly-readings": ["B031-devstudies-2008-08.json"],
+"path": "/energyData/B031-devstudies-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["B031-eng-2008-08.json"],
+"path": "/energyData/B031-eng-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Geography",
+"monthly-readings": ["B031-geog-2008-08.json"],
+"path": "/energyData/B031-geog-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Graduate Union",
+"monthly-readings": ["B031-gradunion-2008-08.json"],
+"path": "/energyData/B031-gradunion-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Land Economy",
+"department": "Land Economy",
+"monthly-readings": ["B031-landecon-2008-08.json"],
+"path": "/energyData/B031-landecon-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Latin American Studies, Centre of",
+"monthly-readings": ["B031-latin-american-2008-08.json"],
+"path": "/energyData/B031-latin-american-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Management Information Services Division",
+"monthly-readings": ["B031-misd-2008-08.json"],
+"path": "/energyData/B031-misd-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Physical Sciences",
+"monthly-readings": ["B031-physsci-2008-08.json"],
+"path": "/energyData/B031-physsci-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Plant Sciences",
+"monthly-readings": ["B031-plantsci-2008-08.json"],
+"path": "/energyData/B031-plantsci-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Politics and International Studies",
+"monthly-readings": ["B031-polis-2008-08.json"],
+"path": "/energyData/B031-polis-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Politics, Psychology, Sociology, Int Stud, Faculty",
+"monthly-readings": ["B031-ppsi-2008-08.json"],
+"path": "/energyData/B031-ppsi-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Social & Dev Psychology",
+"monthly-readings": ["B031-psychometrics-2008-08.json"],
+"path": "/energyData/B031-psychometrics-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social Anthropology",
+"monthly-readings": ["B031-socanth-2008-08.json"],
+"path": "/energyData/B031-socanth-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social & Political Sciences",
+"monthly-readings": ["B031-sps-2008-08.json"],
+"path": "/energyData/B031-sps-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Shared University Accommodation",
+"monthly-readings": ["B031-sua-2008-08.json"],
+"path": "/energyData/B031-sua-"
+}
+,
+{
+"school": "Technology",
+"faculty": "",
+"department": "Technology",
+"monthly-readings": ["B031-tech-2008-08.json"],
+"path": "/energyData/B031-tech-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Academic Division",
+"monthly-readings": ["B032-academic-2008-08.json"],
+"path": "/energyData/B032-academic-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Applied Research Educational Technologies, Centre",
+"monthly-readings": ["B032-caret-2008-08.json"],
+"path": "/energyData/B032-caret-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["B032-em-2008-08.json"],
+"path": "/energyData/B032-em-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["B032-eng-2008-08.json"],
+"path": "/energyData/B032-eng-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Management Information Services Division",
+"monthly-readings": ["B032-misd-2008-08.json"],
+"path": "/energyData/B032-misd-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Research Services Division",
+"monthly-readings": ["B032-research-2008-08.json"],
+"path": "/energyData/B032-research-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Health and Safety Division",
+"monthly-readings": ["B032-safety-2008-08.json"],
+"path": "/energyData/B032-safety-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Land Economy",
+"department": "Land Economy",
+"monthly-readings": ["B034-landecon-2008-08.json"],
+"path": "/energyData/B034-landecon-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Land Economy",
+"department": "Land Economy",
+"monthly-readings": ["B035-landecon-2008-08.json"],
+"path": "/energyData/B035-landecon-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Land Economy",
+"department": "Land Economy",
+"monthly-readings": ["B036-landecon-2008-08.json"],
+"path": "/energyData/B036-landecon-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Land Economy",
+"department": "Land Economy",
+"monthly-readings": ["B037-landecon-2008-08.json"],
+"path": "/energyData/B037-landecon-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Land Economy",
+"department": "Land Economy",
+"monthly-readings": ["B038-landecon-2008-08.json"],
+"path": "/energyData/B038-landecon-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Land Economy",
+"department": "Land Economy",
+"monthly-readings": ["B039-landecon-2008-08.json"],
+"path": "/energyData/B039-landecon-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Fitzwilliam Museum",
+"monthly-readings": ["C010-fitzmuseum-2008-08.json"],
+"path": "/energyData/C010-fitzmuseum-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["C012-eng-2008-08.json"],
+"path": "/energyData/C012-eng-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Architecture and History of Art",
+"department": "Architecture and History of Art",
+"monthly-readings": ["C013-aha-2008-08.json"],
+"path": "/energyData/C013-aha-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Architecture and History of Art",
+"department": "Architecture",
+"monthly-readings": ["C013-arct-2008-08.json"],
+"path": "/energyData/C013-arct-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Faculty of Architecture and History of Art",
+"department": "History of Art",
+"monthly-readings": ["C013-hoart-2008-08.json"],
+"path": "/energyData/C013-hoart-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Fitzwilliam Museum",
+"monthly-readings": ["C015-fitzmuseum-2008-08.json"],
+"path": "/energyData/C015-fitzmuseum-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Fitzwilliam Museum",
+"monthly-readings": ["C016-fitzmuseum-2008-08.json"],
+"path": "/energyData/C016-fitzmuseum-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Fitzwilliam Museum",
+"monthly-readings": ["C017-fitzmuseum-2008-08.json"],
+"path": "/energyData/C017-fitzmuseum-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["C018-eng-2008-08.json"],
+"path": "/energyData/C018-eng-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Archaeology",
+"monthly-readings": ["D011-arch-2008-08.json"],
+"path": "/energyData/D011-arch-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Museum of Archaeology and Anthropology",
+"monthly-readings": ["D011-maa-2008-08.json"],
+"path": "/energyData/D011-maa-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "McDonald Institute for Archaeological Research",
+"monthly-readings": ["D011-mcdonald-2008-08.json"],
+"path": "/energyData/D011-mcdonald-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "McDonald Institute for Archaeological Research",
+"monthly-readings": ["D012-mcdonald-2008-08.json"],
+"path": "/energyData/D012-mcdonald-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["D013-cmlt-2008-08.json"],
+"path": "/energyData/D013-cmlt-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Plant Sciences",
+"monthly-readings": ["D013-plantsci-2008-08.json"],
+"path": "/energyData/D013-plantsci-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["D014-cmlt-2008-08.json"],
+"path": "/energyData/D014-cmlt-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Genetics",
+"monthly-readings": ["D014-gen-2008-08.json"],
+"path": "/energyData/D014-gen-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Biochemistry",
+"monthly-readings": ["D015-bioc-2008-08.json"],
+"path": "/energyData/D015-bioc-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["D015-pdn-2008-08.json"],
+"path": "/energyData/D015-pdn-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Psychiatry",
+"department": "Experimental Psychology",
+"monthly-readings": ["D015-sdp-2008-08.json"],
+"path": "/energyData/D015-sdp-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Pathology",
+"monthly-readings": ["D017-path-2008-08.json"],
+"path": "/energyData/D017-path-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Pathology",
+"monthly-readings": ["D018-path-2008-08.json"],
+"path": "/energyData/D018-path-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Pathology",
+"monthly-readings": ["D019-path-2008-08.json"],
+"path": "/energyData/D019-path-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["D021-em-2008-08.json"],
+"path": "/energyData/D021-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["D021-embs-2008-08.json"],
+"path": "/energyData/D021-embs-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Geography",
+"monthly-readings": ["D021-geog-2008-08.json"],
+"path": "/energyData/D021-geog-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Psychiatry",
+"department": "Psychiatry",
+"monthly-readings": ["D021-psychiatry-2008-08.json"],
+"path": "/energyData/D021-psychiatry-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Psychiatry",
+"department": "Experimental Psychology",
+"monthly-readings": ["D021-sdp-2008-08.json"],
+"path": "/energyData/D021-sdp-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Geography",
+"monthly-readings": ["D022-geog-2008-08.json"],
+"path": "/energyData/D022-geog-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Biochemistry",
+"monthly-readings": ["D024a-bioc-2008-08.json"],
+"path": "/energyData/D024a-bioc-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Clinical Medicine",
+"department": "Clinical Biochemistry",
+"monthly-readings": ["D024a-clbc-2008-08.json"],
+"path": "/energyData/D024a-clbc-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["D024b-pdn-2008-08.json"],
+"path": "/energyData/D024b-pdn-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Psychiatry",
+"department": "Experimental Psychology",
+"monthly-readings": ["D024b-sdp-2008-08.json"],
+"path": "/energyData/D024b-sdp-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["D024c-pdn-2008-08.json"],
+"path": "/energyData/D024c-pdn-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Psychiatry",
+"department": "Experimental Psychology",
+"monthly-readings": ["D024c-sdp-2008-08.json"],
+"path": "/energyData/D024c-sdp-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Biochemistry",
+"monthly-readings": ["D024d-bioc-2008-08.json"],
+"path": "/energyData/D024d-bioc-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Clinical Medicine",
+"department": "Clinical Biochemistry",
+"monthly-readings": ["D024d-clbc-2008-08.json"],
+"path": "/energyData/D024d-clbc-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["D024d-pdn-2008-08.json"],
+"path": "/energyData/D024d-pdn-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["D024e-pdn-2008-08.json"],
+"path": "/energyData/D024e-pdn-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Shared University Accommodation",
+"monthly-readings": ["D024e-sua-2008-08.json"],
+"path": "/energyData/D024e-sua-"
+}
+,
+{
+"school": "Other",
+"faculty": "Language Centre",
+"department": "Language Centre",
+"monthly-readings": ["D026-langcen-2008-08.json"],
+"path": "/energyData/D026-langcen-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Archaeology",
+"monthly-readings": ["D031-arch-2008-08.json"],
+"path": "/energyData/D031-arch-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Archaeology & Anthropology",
+"monthly-readings": ["D031-archanth-2008-08.json"],
+"path": "/energyData/D031-archanth-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["D031-esc-2008-08.json"],
+"path": "/energyData/D031-esc-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Human, Social and Political Science",
+"monthly-readings": ["D031-hsps-2008-08.json"],
+"path": "/energyData/D031-hsps-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Museum of Archaeology and Anthropology",
+"monthly-readings": ["D031-maa-2008-08.json"],
+"path": "/energyData/D031-maa-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["D032-esc-2008-08.json"],
+"path": "/energyData/D032-esc-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Sedgwick Museum of Earth Science",
+"monthly-readings": ["D032-sedgwickmuseum-2008-08.json"],
+"path": "/energyData/D032-sedgwickmuseum-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["D033-esc-2008-08.json"],
+"path": "/energyData/D033-esc-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["D034-cmlt-2008-08.json"],
+"path": "/energyData/D034-cmlt-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Timetabled Teaching",
+"monthly-readings": ["D034-ctt-2008-08.json"],
+"path": "/energyData/D034-ctt-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["D034-pdn-2008-08.json"],
+"path": "/energyData/D034-pdn-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Psychiatry",
+"department": "Experimental Psychology",
+"monthly-readings": ["D034-sdp-2008-08.json"],
+"path": "/energyData/D034-sdp-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["D035-pdn-2008-08.json"],
+"path": "/energyData/D035-pdn-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Psychiatry",
+"department": "Experimental Psychology",
+"monthly-readings": ["D035-sdp-2008-08.json"],
+"path": "/energyData/D035-sdp-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Psychiatry",
+"department": "Experimental Psychology",
+"monthly-readings": ["D036-sdp-2008-08.json"],
+"path": "/energyData/D036-sdp-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Biochemistry",
+"monthly-readings": ["D037-bioc-2008-08.json"],
+"path": "/energyData/D037-bioc-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Biochemistry",
+"monthly-readings": ["D038-bioc-2008-08.json"],
+"path": "/energyData/D038-bioc-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Pathology",
+"monthly-readings": ["D038-path-2008-08.json"],
+"path": "/energyData/D038-path-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["D040-pdn-2008-08.json"],
+"path": "/energyData/D040-pdn-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["D041-pdn-2008-08.json"],
+"path": "/energyData/D041-pdn-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Dental Service",
+"monthly-readings": ["E012-dental-2008-08.json"],
+"path": "/energyData/E012-dental-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Business & Management",
+"department": "Judge Business School",
+"monthly-readings": ["E013-jbs-2008-08.json"],
+"path": "/energyData/E013-jbs-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Fitzwilliam Museum",
+"monthly-readings": ["E016-fitzmuseum-2008-08.json"],
+"path": "/energyData/E016-fitzmuseum-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Fitzwilliam Museum",
+"monthly-readings": ["E017-fitzmuseum-2008-08.json"],
+"path": "/energyData/E017-fitzmuseum-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Cambridge Enterprise",
+"monthly-readings": ["E019-enterprise-2008-08.json"],
+"path": "/energyData/E019-enterprise-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Finance Division",
+"monthly-readings": ["E019-finance-2008-08.json"],
+"path": "/energyData/E019-finance-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Investment Office",
+"monthly-readings": ["E019-investment-2008-08.json"],
+"path": "/energyData/E019-investment-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Business & Management",
+"department": "Judge Business School",
+"monthly-readings": ["E019-jbs-2008-08.json"],
+"path": "/energyData/E019-jbs-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Registrary's Office",
+"monthly-readings": ["E019-registrary-2008-08.json"],
+"path": "/energyData/E019-registrary-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Secretariat",
+"monthly-readings": ["E019-secretariat-2008-08.json"],
+"path": "/energyData/E019-secretariat-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Biological Anthropology",
+"monthly-readings": ["E021-bioanth-2008-08.json"],
+"path": "/energyData/E021-bioanth-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Chemical Engineering & Biotechnology",
+"department": "Biotechnology, Institute of",
+"monthly-readings": ["E021-ceb-2008-08.json"],
+"path": "/energyData/E021-ceb-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Disability Resource Centre",
+"monthly-readings": ["E021-disability-2008-08.json"],
+"path": "/energyData/E021-disability-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Shared Accommodation - DRC Managed",
+"monthly-readings": ["E021-drc-2008-08.json"],
+"path": "/energyData/E021-drc-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Business & Management",
+"department": "Judge Business School",
+"monthly-readings": ["E021-jbs-2008-08.json"],
+"path": "/energyData/E021-jbs-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Human Resources Division",
+"monthly-readings": ["E023-hr-2008-08.json"],
+"path": "/energyData/E023-hr-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Chemical Engineering & Biotechnology",
+"department": "Biotechnology, Institute of",
+"monthly-readings": ["E025-ceb-2008-08.json"],
+"path": "/energyData/E025-ceb-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Wellcome Trust Centre for Stem Cell Research",
+"department": "Wellcome Trust Centre Stem Cell Institute",
+"monthly-readings": ["E025-cscr-2008-08.json"],
+"path": "/energyData/E025-cscr-"
+}
+,
+{
+"school": "Technology",
+"faculty": "",
+"department": "Cambridge Programme for Industry",
+"monthly-readings": ["E026-cpsl-2008-08.json"],
+"path": "/energyData/E026-cpsl-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Business & Management",
+"department": "Judge Business School",
+"monthly-readings": ["E027-jbs-2008-08.json"],
+"path": "/energyData/E027-jbs-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Architecture and History of Art",
+"department": "Architecture",
+"monthly-readings": ["E028-arct-2008-08.json"],
+"path": "/energyData/E028-arct-"
+}
+,
+{
+"school": "Technology",
+"faculty": "",
+"department": "Cambridge Programme for Industry",
+"monthly-readings": ["E028-cpsl-2008-08.json"],
+"path": "/energyData/E028-cpsl-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "University Counselling Service",
+"monthly-readings": ["E029-counselling-2008-08.json"],
+"path": "/energyData/E029-counselling-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Pharmacology",
+"monthly-readings": ["E030-phar-2008-08.json"],
+"path": "/energyData/E030-phar-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Academic Division",
+"monthly-readings": ["E031-academic-2008-08.json"],
+"path": "/energyData/E031-academic-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Cambridge Admissions Office",
+"monthly-readings": ["E031-admissions-2008-08.json"],
+"path": "/energyData/E031-admissions-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Cambridge Society",
+"monthly-readings": ["E031-societies-2008-08.json"],
+"path": "/energyData/E031-societies-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Biochemistry",
+"monthly-readings": ["E032-bioc-2008-08.json"],
+"path": "/energyData/E032-bioc-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Faculty of Architecture and History of Art",
+"department": "History of Art",
+"monthly-readings": ["E040-hoart-2008-08.json"],
+"path": "/energyData/E040-hoart-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Wellcome Trust/Cancer Research UK Gurdon Institute",
+"department": "Wellcome CRC",
+"monthly-readings": ["E041-gurdon-2008-08.json"],
+"path": "/energyData/E041-gurdon-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Biological Anthropology",
+"monthly-readings": ["E045-bioanth-2008-08.json"],
+"path": "/energyData/E045-bioanth-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Human Resources Division",
+"monthly-readings": ["E049-hr-2008-08.json"],
+"path": "/energyData/E049-hr-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "University Nursery",
+"monthly-readings": ["E049-nursery-2008-08.json"],
+"path": "/energyData/E049-nursery-"
+}
+,
+{
+"school": "Other",
+"faculty": "(ESRC) Centre for Business Research",
+"department": "Centre for Business Research",
+"monthly-readings": ["E052-cbr-2008-08.json"],
+"path": "/energyData/E052-cbr-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["E052-em-2008-08.json"],
+"path": "/energyData/E052-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["E052-embs-2008-08.json"],
+"path": "/energyData/E052-embs-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Business & Management",
+"department": "Judge Business School",
+"monthly-readings": ["E052-jbs-2008-08.json"],
+"path": "/energyData/E052-jbs-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Accommodation Service",
+"monthly-readings": ["E053-accommodation-2008-08.json"],
+"path": "/energyData/E053-accommodation-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["E053-embs-2008-08.json"],
+"path": "/energyData/E053-embs-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Chemical Engineering & Biotechnology",
+"department": "Biotechnology, Institute of",
+"monthly-readings": ["E054-ceb-2008-08.json"],
+"path": "/energyData/E054-ceb-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Genetics",
+"monthly-readings": ["F017-gen-2008-08.json"],
+"path": "/energyData/F017-gen-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["F074-zoo-2008-08.json"],
+"path": "/energyData/F074-zoo-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["F075-zoo-2008-08.json"],
+"path": "/energyData/F075-zoo-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Genetics",
+"monthly-readings": ["F086-gen-2008-08.json"],
+"path": "/energyData/F086-gen-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["F103-zoo-2008-08.json"],
+"path": "/energyData/F103-zoo-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["F104-zoo-2008-08.json"],
+"path": "/energyData/F104-zoo-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["F108-zoo-2008-08.json"],
+"path": "/energyData/F108-zoo-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["F109-zoo-2008-08.json"],
+"path": "/energyData/F109-zoo-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["F116-zoo-2008-08.json"],
+"path": "/energyData/F116-zoo-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["F117-zoo-2008-08.json"],
+"path": "/energyData/F117-zoo-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["F118-zoo-2008-08.json"],
+"path": "/energyData/F118-zoo-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Astronomy",
+"monthly-readings": ["F130-ast-2008-08.json"],
+"path": "/energyData/F130-ast-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Chemical Engineering & Biotechnology",
+"department": "Chemical Engineering",
+"monthly-readings": ["F130-ceb-2008-08.json"],
+"path": "/energyData/F130-ceb-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["F130-em-2008-08.json"],
+"path": "/energyData/F130-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["F130-embs-2008-08.json"],
+"path": "/energyData/F130-embs-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Geography",
+"monthly-readings": ["F130-geog-2008-08.json"],
+"path": "/energyData/F130-geog-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Plant Sciences",
+"monthly-readings": ["F130-plantsci-2008-08.json"],
+"path": "/energyData/F130-plantsci-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["F131-em-2008-08.json"],
+"path": "/energyData/F131-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["F131-embs-2008-08.json"],
+"path": "/energyData/F131-embs-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["F132-em-2008-08.json"],
+"path": "/energyData/F132-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["F132-embs-2008-08.json"],
+"path": "/energyData/F132-embs-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["F133-em-2008-08.json"],
+"path": "/energyData/F133-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["F133-embs-2008-08.json"],
+"path": "/energyData/F133-embs-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Cambridge Archaeological Unit",
+"monthly-readings": ["F170-cau.arch-2008-08.json"],
+"path": "/energyData/F170-cau.arch-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Cambridge Archaeological Unit",
+"monthly-readings": ["F171-cau.arch-2008-08.json"],
+"path": "/energyData/F171-cau.arch-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["F172-esc-2008-08.json"],
+"path": "/energyData/F172-esc-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["F175-pdn-2008-08.json"],
+"path": "/energyData/F175-pdn-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["F176-pdn-2008-08.json"],
+"path": "/energyData/F176-pdn-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["F188-vet-2008-08.json"],
+"path": "/energyData/F188-vet-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Central Biomedical Resources",
+"monthly-readings": ["H012-cambridge-biomedical-2008-08.json"],
+"path": "/energyData/H012-cambridge-biomedical-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Central Biomedical Services",
+"monthly-readings": ["H012-cbstransgenics-2008-08.json"],
+"path": "/energyData/H012-cbstransgenics-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Oncology",
+"department": "Oncology",
+"monthly-readings": ["H015-Oncology-2008-08.json"],
+"path": "/energyData/H015-Oncology-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Haematology",
+"department": "Haematology",
+"monthly-readings": ["H015-haem-2008-08.json"],
+"path": "/energyData/H015-haem-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Medicine",
+"monthly-readings": ["H015-med-2008-08.json"],
+"path": "/energyData/H015-med-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Clinical School Computing Service",
+"monthly-readings": ["H017-cscs.medschl-2008-08.json"],
+"path": "/energyData/H017-cscs.medschl-"
+}
+,
+{
+"school": "University Library",
+"faculty": "",
+"department": "Medical Library",
+"monthly-readings": ["H017-library.medschl-2008-08.json"],
+"path": "/energyData/H017-library.medschl-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Clinical Medicine",
+"monthly-readings": ["H017-medschl-2008-08.json"],
+"path": "/energyData/H017-medschl-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Cambridge Institute for Medical Research (Shared)",
+"monthly-readings": ["H018-cimr-2008-08.json"],
+"path": "/energyData/H018-cimr-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Clinical Medicine",
+"department": "Clinical Biochemistry",
+"monthly-readings": ["H018-clbc-2008-08.json"],
+"path": "/energyData/H018-clbc-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Haematology",
+"department": "Haematology",
+"monthly-readings": ["H018-haem-2008-08.json"],
+"path": "/energyData/H018-haem-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Medicine",
+"monthly-readings": ["H018-med-2008-08.json"],
+"path": "/energyData/H018-med-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Medical Genetics",
+"department": "Medical Genetics",
+"monthly-readings": ["H018-medgen.medschl-2008-08.json"],
+"path": "/energyData/H018-medgen.medschl-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Clinical Medicine",
+"monthly-readings": ["H018-medschl-2008-08.json"],
+"path": "/energyData/H018-medschl-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "MRC Dunn Human Nutrition Unit (shared)",
+"monthly-readings": ["H018-mrc-hnr-2008-08.json"],
+"path": "/energyData/H018-mrc-hnr-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Clinical Medicine",
+"department": "Clinical Neuroscience",
+"monthly-readings": ["H018-neurosciences.medschl-2008-08.json"],
+"path": "/energyData/H018-neurosciences.medschl-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Pathology",
+"monthly-readings": ["H018-path-2008-08.json"],
+"path": "/energyData/H018-path-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Surgery",
+"department": "Surgery",
+"monthly-readings": ["H018-surgery-2008-08.json"],
+"path": "/energyData/H018-surgery-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Medicine",
+"monthly-readings": ["H021-med-2008-08.json"],
+"path": "/energyData/H021-med-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Oncology",
+"department": "Oncology",
+"monthly-readings": ["H024-Oncology-2008-08.json"],
+"path": "/energyData/H024-Oncology-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Public Health, Institute of",
+"monthly-readings": ["H139-iph-2008-08.json"],
+"path": "/energyData/H139-iph-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Clinical Medicine",
+"monthly-readings": ["H139-medschl-2008-08.json"],
+"path": "/energyData/H139-medschl-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Clinical Medicine",
+"department": "Clinical Neuroscience",
+"monthly-readings": ["H139-neurosciences.medschl-2008-08.json"],
+"path": "/energyData/H139-neurosciences.medschl-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Public Health & Primary Care",
+"department": "Public Health and Primary Care",
+"monthly-readings": ["H139-phpc-2008-08.json"],
+"path": "/energyData/H139-phpc-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Psychiatry",
+"department": "Psychiatry",
+"monthly-readings": ["H139-psychiatry-2008-08.json"],
+"path": "/energyData/H139-psychiatry-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Psychiatry",
+"department": "Experimental Psychology",
+"monthly-readings": ["H139-sdp-2008-08.json"],
+"path": "/energyData/H139-sdp-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "IPH-Shared Accommodation",
+"monthly-readings": ["H140-iphsa-2008-08.json"],
+"path": "/energyData/H140-iphsa-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Public Health & Primary Care",
+"department": "Public Health and Primary Care, Institute of",
+"monthly-readings": ["H140-phpc-2008-08.json"],
+"path": "/energyData/H140-phpc-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Clinical Medicine",
+"department": "Brain Repair, Centre for",
+"monthly-readings": ["H141-brc-2008-08.json"],
+"path": "/energyData/H141-brc-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Central Biomedical Resources",
+"monthly-readings": ["H141-cambridge-biomedical-2008-08.json"],
+"path": "/energyData/H141-cambridge-biomedical-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Clinical Medicine",
+"department": "Brain Repair, Centre for",
+"monthly-readings": ["H142-brc-2008-08.json"],
+"path": "/energyData/H142-brc-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Central Biomedical Resources",
+"monthly-readings": ["H142-cambridge-biomedical-2008-08.json"],
+"path": "/energyData/H142-cambridge-biomedical-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Clinical Medicine",
+"department": "Clinical Biochemistry",
+"monthly-readings": ["H142-clbc-2008-08.json"],
+"path": "/energyData/H142-clbc-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Medicine",
+"monthly-readings": ["H142-med-2008-08.json"],
+"path": "/energyData/H142-med-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Surgery",
+"department": "Surgery",
+"monthly-readings": ["H142-surgery-2008-08.json"],
+"path": "/energyData/H142-surgery-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "Unallocated Accommodation",
+"monthly-readings": ["H142-ua-2008-08.json"],
+"path": "/energyData/H142-ua-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Clinical Neurosciences",
+"department": "Wolfson Brain Imaging Centre",
+"monthly-readings": ["H142-wbic-2008-08.json"],
+"path": "/energyData/H142-wbic-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "",
+"department": "West Forvie Building Shared",
+"monthly-readings": ["H142-west.forvie-2008-08.json"],
+"path": "/energyData/H142-west.forvie-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Kettles Yard",
+"monthly-readings": ["K015-kettlesyard-2008-08.json"],
+"path": "/energyData/K015-kettlesyard-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "University Marshal & Motor Proctor",
+"monthly-readings": ["K019-proctors-2008-08.json"],
+"path": "/energyData/K019-proctors-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Academic Division",
+"monthly-readings": ["K021-academic-2008-08.json"],
+"path": "/energyData/K021-academic-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Board of Examinations",
+"monthly-readings": ["K021-exams-2008-08.json"],
+"path": "/energyData/K021-exams-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Human Resources Division",
+"monthly-readings": ["K021-hr-2008-08.json"],
+"path": "/energyData/K021-hr-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Academic Division",
+"monthly-readings": ["K022-academic-2008-08.json"],
+"path": "/energyData/K022-academic-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Development Office(CUDO)",
+"monthly-readings": ["K038-cudo-2008-08.json"],
+"path": "/energyData/K038-cudo-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Development Office(CUDO)",
+"monthly-readings": ["K039-cudo-2008-08.json"],
+"path": "/energyData/K039-cudo-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Cambridge Society",
+"monthly-readings": ["K039-societies-2008-08.json"],
+"path": "/energyData/K039-societies-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Chemistry",
+"monthly-readings": ["L010-ch-2008-08.json"],
+"path": "/energyData/L010-ch-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Scott Polar Institute incl the Museum and Archives",
+"monthly-readings": ["L011-spri-2008-08.json"],
+"path": "/energyData/L011-spri-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "University Nursery",
+"monthly-readings": ["L025-nursery-2008-08.json"],
+"path": "/energyData/L025-nursery-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Chemistry",
+"monthly-readings": ["L027-ch-2008-08.json"],
+"path": "/energyData/L027-ch-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Chemistry",
+"monthly-readings": ["L030-ch-2008-08.json"],
+"path": "/energyData/L030-ch-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Education",
+"department": "Education",
+"monthly-readings": ["L041-educ-2008-08.json"],
+"path": "/energyData/L041-educ-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Physical Education",
+"monthly-readings": ["L042-sport-2008-08.json"],
+"path": "/energyData/L042-sport-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Education",
+"department": "Education",
+"monthly-readings": ["L045-educ-2008-08.json"],
+"path": "/energyData/L045-educ-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Plant Sciences",
+"monthly-readings": ["L048-plantsci-2008-08.json"],
+"path": "/energyData/L048-plantsci-"
+}
+,
+{
+"school": "Other",
+"faculty": "Biology",
+"department": "Botanic Garden",
+"monthly-readings": ["L061-botanic-2008-08.json"],
+"path": "/energyData/L061-botanic-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Cambridge Crystallographic Data Centre",
+"monthly-readings": ["L075-ccdc-2008-08.json"],
+"path": "/energyData/L075-ccdc-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Botanic Garden",
+"monthly-readings": ["L077-botanic-2008-08.json"],
+"path": "/energyData/L077-botanic-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Botanic Garden",
+"monthly-readings": ["L078-botanic-2008-08.json"],
+"path": "/energyData/L078-botanic-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Plant Sciences",
+"monthly-readings": ["L078-plantsci-2008-08.json"],
+"path": "/energyData/L078-plantsci-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Botanic Garden",
+"monthly-readings": ["L079-botanic-2008-08.json"],
+"path": "/energyData/L079-botanic-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Botanic Garden",
+"monthly-readings": ["L081-botanic-2008-08.json"],
+"path": "/energyData/L081-botanic-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Botanic Garden",
+"monthly-readings": ["L082-botanic-2008-08.json"],
+"path": "/energyData/L082-botanic-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Ospreys",
+"monthly-readings": ["L083-Ospreys-2008-08.json"],
+"path": "/energyData/L083-Ospreys-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Humanitarian Centre",
+"monthly-readings": ["L083-humanitariancentre-2008-08.json"],
+"path": "/energyData/L083-humanitariancentre-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Occupational Health Service",
+"monthly-readings": ["L083-oh-2008-08.json"],
+"path": "/energyData/L083-oh-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Physical Education",
+"monthly-readings": ["L083-sport-2008-08.json"],
+"path": "/energyData/L083-sport-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Sports Facility",
+"monthly-readings": ["L084-sport-2008-08.json"],
+"path": "/energyData/L084-sport-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Sports Facility",
+"monthly-readings": ["L085-sport-2008-08.json"],
+"path": "/energyData/L085-sport-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Investment Office",
+"monthly-readings": ["L091-investment-2008-08.json"],
+"path": "/energyData/L091-investment-"
+}
+,
+{
+"school": "Other",
+"faculty": "Biology",
+"department": "Botanic Garden",
+"monthly-readings": ["L092-botanic-2008-08.json"],
+"path": "/energyData/L092-botanic-"
+}
+,
+{
+"school": "Other",
+"faculty": "Biology",
+"department": "Botanic Garden",
+"monthly-readings": ["L094-botanic-2008-08.json"],
+"path": "/energyData/L094-botanic-"
+}
+,
+{
+"school": "Other",
+"faculty": "Biology",
+"department": "Botanic Garden",
+"monthly-readings": ["L099-botanic-2008-08.json"],
+"path": "/energyData/L099-botanic-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["M014-zoo-2008-08.json"],
+"path": "/energyData/M014-zoo-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Academic Division",
+"monthly-readings": ["M017-academic-2008-08.json"],
+"path": "/energyData/M017-academic-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Office of External Affairs and Communications",
+"monthly-readings": ["M017-communications-2008-08.json"],
+"path": "/energyData/M017-communications-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Board of Examinations",
+"monthly-readings": ["M017-exams-2008-08.json"],
+"path": "/energyData/M017-exams-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M019-msm-2008-08.json"],
+"path": "/energyData/M019-msm-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Centre for Family Research",
+"monthly-readings": ["M023-cfr-2008-08.json"],
+"path": "/energyData/M023-cfr-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Timetabled Teaching",
+"monthly-readings": ["M023-ctt-2008-08.json"],
+"path": "/energyData/M023-ctt-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["M023-em-2008-08.json"],
+"path": "/energyData/M023-em-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M023-msm-2008-08.json"],
+"path": "/energyData/M023-msm-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Politics, Psychology, Sociology, Int Stud, Faculty",
+"monthly-readings": ["M023-ppsi-2008-08.json"],
+"path": "/energyData/M023-ppsi-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Social & Dev Psychology",
+"monthly-readings": ["M023-psychometrics-2008-08.json"],
+"path": "/energyData/M023-psychometrics-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social and Developmental Psychology & Sociology",
+"monthly-readings": ["M023-sociology-2008-08.json"],
+"path": "/energyData/M023-sociology-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social & Political Sciences",
+"monthly-readings": ["M023-sps-2008-08.json"],
+"path": "/energyData/M023-sps-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Centre for Family Research",
+"monthly-readings": ["M024-cfr-2008-08.json"],
+"path": "/energyData/M024-cfr-"
+}
+,
+{
+"school": "University Library",
+"faculty": "",
+"department": "Central Science Library",
+"monthly-readings": ["M024-lib.csl-2008-08.json"],
+"path": "/energyData/M024-lib.csl-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M024-msm-2008-08.json"],
+"path": "/energyData/M024-msm-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Politics, Psychology, Sociology, Int Stud, Faculty",
+"monthly-readings": ["M024-ppsi-2008-08.json"],
+"path": "/energyData/M024-ppsi-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Social & Dev Psychology",
+"monthly-readings": ["M024-psychometrics-2008-08.json"],
+"path": "/energyData/M024-psychometrics-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social and Developmental Psychology & Sociology",
+"monthly-readings": ["M024-sociology-2008-08.json"],
+"path": "/energyData/M024-sociology-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social & Political Sciences",
+"monthly-readings": ["M024-sps-2008-08.json"],
+"path": "/energyData/M024-sps-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["M025-em-2008-08.json"],
+"path": "/energyData/M025-em-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Politics, Psychology, Sociology, Int Stud, Faculty",
+"monthly-readings": ["M025-ppsi-2008-08.json"],
+"path": "/energyData/M025-ppsi-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Social & Dev Psychology",
+"monthly-readings": ["M025-psychometrics-2008-08.json"],
+"path": "/energyData/M025-psychometrics-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social and Developmental Psychology & Sociology",
+"monthly-readings": ["M025-sociology-2008-08.json"],
+"path": "/energyData/M025-sociology-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social & Political Sciences",
+"monthly-readings": ["M025-sps-2008-08.json"],
+"path": "/energyData/M025-sps-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["M025-ucs-2008-08.json"],
+"path": "/energyData/M025-ucs-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["M026-cmlt-2008-08.json"],
+"path": "/energyData/M026-cmlt-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Timetabled Teaching",
+"monthly-readings": ["M026-ctt-2008-08.json"],
+"path": "/energyData/M026-ctt-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social Anthropology",
+"monthly-readings": ["M026-socanth-2008-08.json"],
+"path": "/energyData/M026-socanth-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["M026-ucs-2008-08.json"],
+"path": "/energyData/M026-ucs-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Computer Science & Technology",
+"department": "Computer Laboratory",
+"monthly-readings": ["M027-cl-2008-08.json"],
+"path": "/energyData/M027-cl-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "History and Philosophy of Science",
+"department": "History & Philosophy of Science",
+"monthly-readings": ["M027-hps-2008-08.json"],
+"path": "/energyData/M027-hps-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["M027-ucs-2008-08.json"],
+"path": "/energyData/M027-ucs-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "History and Philosophy of Science",
+"department": "Whipple Museum",
+"monthly-readings": ["M027-whipple-2008-08.json"],
+"path": "/energyData/M027-whipple-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Cambridge University Students Union (CUSU)",
+"monthly-readings": ["M029-cusu-2008-08.json"],
+"path": "/energyData/M029-cusu-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["M029-em-2008-08.json"],
+"path": "/energyData/M029-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["M029-embs-2008-08.json"],
+"path": "/energyData/M029-embs-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["M029-esc-2008-08.json"],
+"path": "/energyData/M029-esc-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Board of Examinations",
+"monthly-readings": ["M029-exams-2008-08.json"],
+"path": "/energyData/M029-exams-"
+}
+,
+{
+"school": "University Library",
+"faculty": "",
+"department": "Central Science Library",
+"monthly-readings": ["M029-lib.csl-2008-08.json"],
+"path": "/energyData/M029-lib.csl-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["M029-ucs-2008-08.json"],
+"path": "/energyData/M029-ucs-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["M030-cmlt-2008-08.json"],
+"path": "/energyData/M030-cmlt-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["M030-em-2008-08.json"],
+"path": "/energyData/M030-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["M030-embs-2008-08.json"],
+"path": "/energyData/M030-embs-"
+}
+,
+{
+"school": "University Library",
+"faculty": "",
+"department": "Central Science Library",
+"monthly-readings": ["M030-lib.csl-2008-08.json"],
+"path": "/energyData/M030-lib.csl-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["M031-cmlt-2008-08.json"],
+"path": "/energyData/M031-cmlt-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Timetabled Teaching",
+"monthly-readings": ["M031-ctt-2008-08.json"],
+"path": "/energyData/M031-ctt-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Applied Mathematics & Theoretical Physics",
+"monthly-readings": ["M031-damtp-2008-08.json"],
+"path": "/energyData/M031-damtp-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["M031-embs-2008-08.json"],
+"path": "/energyData/M031-embs-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M031-msm-2008-08.json"],
+"path": "/energyData/M031-msm-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Museum of Zoology",
+"monthly-readings": ["M031-museum.zoo-2008-08.json"],
+"path": "/energyData/M031-museum.zoo-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Telecommunications Office",
+"monthly-readings": ["M031-phone-2008-08.json"],
+"path": "/energyData/M031-phone-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Physical Sciences",
+"monthly-readings": ["M031-physsci-2008-08.json"],
+"path": "/energyData/M031-physsci-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Security Office",
+"monthly-readings": ["M031-securityoffice-2008-08.json"],
+"path": "/energyData/M031-securityoffice-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["M031-ucs-2008-08.json"],
+"path": "/energyData/M031-ucs-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["M031-zoo-2008-08.json"],
+"path": "/energyData/M031-zoo-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "UCS Servers",
+"monthly-readings": ["M031a-ucs.servers-2008-08.json"],
+"path": "/energyData/M031a-ucs.servers-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M032-msm-2008-08.json"],
+"path": "/energyData/M032-msm-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Telecommunications Office",
+"monthly-readings": ["M032-phone-2008-08.json"],
+"path": "/energyData/M032-phone-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Security Office",
+"monthly-readings": ["M032-securityoffice-2008-08.json"],
+"path": "/energyData/M032-securityoffice-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social Anthropology",
+"monthly-readings": ["M032-socanth-2008-08.json"],
+"path": "/energyData/M032-socanth-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["M032-ucs-2008-08.json"],
+"path": "/energyData/M032-ucs-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M033-msm-2008-08.json"],
+"path": "/energyData/M033-msm-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Chemical Engineering & Biotechnology",
+"department": "Chemical Engineering",
+"monthly-readings": ["M034-ceb-2008-08.json"],
+"path": "/energyData/M034-ceb-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["M034-em-2008-08.json"],
+"path": "/energyData/M034-em-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Chemical Engineering & Biotechnology",
+"department": "Chemical Engineering",
+"monthly-readings": ["M035-ceb-2008-08.json"],
+"path": "/energyData/M035-ceb-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M035-msm-2008-08.json"],
+"path": "/energyData/M035-msm-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Archaeology",
+"monthly-readings": ["M036-arch-2008-08.json"],
+"path": "/energyData/M036-arch-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Archaeology & Anthropology",
+"monthly-readings": ["M036-archanth-2008-08.json"],
+"path": "/energyData/M036-archanth-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Biological Anthropology",
+"monthly-readings": ["M036-bioanth-2008-08.json"],
+"path": "/energyData/M036-bioanth-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Chemical Engineering & Biotechnology",
+"department": "Chemical Engineering",
+"monthly-readings": ["M036-ceb-2008-08.json"],
+"path": "/energyData/M036-ceb-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Human, Social and Political Science",
+"monthly-readings": ["M036-hsps-2008-08.json"],
+"path": "/energyData/M036-hsps-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M036-msm-2008-08.json"],
+"path": "/energyData/M036-msm-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social Anthropology",
+"monthly-readings": ["M036-socanth-2008-08.json"],
+"path": "/energyData/M036-socanth-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Archaeology",
+"monthly-readings": ["M037-arch-2008-08.json"],
+"path": "/energyData/M037-arch-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Biological Anthropology",
+"monthly-readings": ["M037-bioanth-2008-08.json"],
+"path": "/energyData/M037-bioanth-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "History and Philosophy of Science",
+"department": "History & Philosophy of Science",
+"monthly-readings": ["M037-hps-2008-08.json"],
+"path": "/energyData/M037-hps-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M037-msm-2008-08.json"],
+"path": "/energyData/M037-msm-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "History and Philosophy of Science",
+"department": "Whipple Museum",
+"monthly-readings": ["M037-whipple-2008-08.json"],
+"path": "/energyData/M037-whipple-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["M038-em-2008-08.json"],
+"path": "/energyData/M038-em-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["M038-eng-2008-08.json"],
+"path": "/energyData/M038-eng-"
+}
+,
+{
+"school": "University Library",
+"faculty": "",
+"department": "Central Science Library",
+"monthly-readings": ["M038-lib.csl-2008-08.json"],
+"path": "/energyData/M038-lib.csl-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M038-msm-2008-08.json"],
+"path": "/energyData/M038-msm-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["M038-ucs-2008-08.json"],
+"path": "/energyData/M038-ucs-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["M038-zoo-2008-08.json"],
+"path": "/energyData/M038-zoo-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Computer Science & Technology",
+"department": "Computer Laboratory",
+"monthly-readings": ["M039-cl-2008-08.json"],
+"path": "/energyData/M039-cl-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["M039-cmlt-2008-08.json"],
+"path": "/energyData/M039-cmlt-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Timetabled Teaching",
+"monthly-readings": ["M039-ctt-2008-08.json"],
+"path": "/energyData/M039-ctt-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["M039-embs-2008-08.json"],
+"path": "/energyData/M039-embs-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Materials Science & Metallurgy",
+"monthly-readings": ["M039-msm-2008-08.json"],
+"path": "/energyData/M039-msm-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["M039-phy-2008-08.json"],
+"path": "/energyData/M039-phy-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Security Office",
+"monthly-readings": ["M039-securityoffice-2008-08.json"],
+"path": "/energyData/M039-securityoffice-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["M039-ucs-2008-08.json"],
+"path": "/energyData/M039-ucs-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Zoology",
+"monthly-readings": ["M039-zoo-2008-08.json"],
+"path": "/energyData/M039-zoo-"
+}
+,
+{
+"school": "University Library",
+"faculty": "",
+"department": "Central Science Library",
+"monthly-readings": ["M040-lib.csl-2008-08.json"],
+"path": "/energyData/M040-lib.csl-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["M040-ucs-2008-08.json"],
+"path": "/energyData/M040-ucs-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Centre of African Studies",
+"monthly-readings": ["M041-african-2008-08.json"],
+"path": "/energyData/M041-african-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Humanities and Social Sciences",
+"monthly-readings": ["M041-cshss-2008-08.json"],
+"path": "/energyData/M041-cshss-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "History and Philosophy of Science",
+"department": "History & Philosophy of Science",
+"monthly-readings": ["M041-hps-2008-08.json"],
+"path": "/energyData/M041-hps-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Social Anthropology",
+"monthly-readings": ["M041-socanth-2008-08.json"],
+"path": "/energyData/M041-socanth-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Shared University Accommodation",
+"monthly-readings": ["M041-sua-2008-08.json"],
+"path": "/energyData/M041-sua-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R016-phy-2008-08.json"],
+"path": "/energyData/R016-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R017-phy-2008-08.json"],
+"path": "/energyData/R017-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R018-phy-2008-08.json"],
+"path": "/energyData/R018-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R019-phy-2008-08.json"],
+"path": "/energyData/R019-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R020-phy-2008-08.json"],
+"path": "/energyData/R020-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R021-phy-2008-08.json"],
+"path": "/energyData/R021-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R022-phy-2008-08.json"],
+"path": "/energyData/R022-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R029-phy-2008-08.json"],
+"path": "/energyData/R029-phy-"
+}
+,
+{
+"school": "Clinical Medicine",
+"faculty": "Public Health & Primary Care",
+"department": "Public Health and Primary Care, Institute of",
+"monthly-readings": ["R030-phpc-2008-08.json"],
+"path": "/energyData/R030-phpc-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R031-phy-2008-08.json"],
+"path": "/energyData/R031-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R034-phy-2008-08.json"],
+"path": "/energyData/R034-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R036-phy-2008-08.json"],
+"path": "/energyData/R036-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R037-phy-2008-08.json"],
+"path": "/energyData/R037-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["R038-phy-2008-08.json"],
+"path": "/energyData/R038-phy-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Economics",
+"department": "Economics",
+"monthly-readings": ["S012-econ-2008-08.json"],
+"path": "/energyData/S012-econ-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Fitzwilliam Museum",
+"monthly-readings": ["S012-fitzmuseum-2008-08.json"],
+"path": "/energyData/S012-fitzmuseum-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "University Centre",
+"monthly-readings": ["S012-unicen-2008-08.json"],
+"path": "/energyData/S012-unicen-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "",
+"department": "Arts and Humanities",
+"monthly-readings": ["S013-csah-2008-08.json"],
+"path": "/energyData/S013-csah-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Modern and Medieval Languages",
+"department": "Modern & Medieval Languages",
+"monthly-readings": ["S013-mml-2008-08.json"],
+"path": "/energyData/S013-mml-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Philosophy",
+"department": "Philosophy",
+"monthly-readings": ["S013-phil-2008-08.json"],
+"path": "/energyData/S013-phil-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["S013-ucs-2008-08.json"],
+"path": "/energyData/S013-ucs-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["S014-cmlt-2008-08.json"],
+"path": "/energyData/S014-cmlt-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Timetabled Teaching",
+"monthly-readings": ["S014-ctt-2008-08.json"],
+"path": "/energyData/S014-ctt-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["S014-em-2008-08.json"],
+"path": "/energyData/S014-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["S014-embs-2008-08.json"],
+"path": "/energyData/S014-embs-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Registrary's Office",
+"monthly-readings": ["S014-registrary-2008-08.json"],
+"path": "/energyData/S014-registrary-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Secretariat/Prayer Room",
+"monthly-readings": ["S014-secretariat-2008-08.json"],
+"path": "/energyData/S014-secretariat-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["S015-cmlt-2008-08.json"],
+"path": "/energyData/S015-cmlt-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Timetabled Teaching",
+"monthly-readings": ["S015-ctt-2008-08.json"],
+"path": "/energyData/S015-ctt-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Managed Lecture Theatres",
+"monthly-readings": ["S016-cmlt-2008-08.json"],
+"path": "/energyData/S016-cmlt-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Centrally Timetabled Teaching",
+"monthly-readings": ["S016-ctt-2008-08.json"],
+"path": "/energyData/S016-ctt-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "History",
+"department": "History",
+"monthly-readings": ["S017-hist-2008-08.json"],
+"path": "/energyData/S017-hist-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Asian and Middle Eastern Studies",
+"department": "Asian & Middle Eastern Studies",
+"monthly-readings": ["S018-ames-2008-08.json"],
+"path": "/energyData/S018-ames-"
+}
+,
+{
+"school": "Other",
+"faculty": "Centre of Islamic Studies",
+"department": "Prince Alwaleed Bin Talal CIS",
+"monthly-readings": ["S018-cis-2008-08.json"],
+"path": "/energyData/S018-cis-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["S018-ucs-2008-08.json"],
+"path": "/energyData/S018-ucs-"
+}
+,
+{
+"school": "University Library",
+"faculty": "University Library",
+"department": "University Library",
+"monthly-readings": ["S022-lib-2008-08.json"],
+"path": "/energyData/S022-lib-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Law",
+"department": "Law",
+"monthly-readings": ["S027-law-2008-08.json"],
+"path": "/energyData/S027-law-"
+}
+,
+{
+"school": "University Library",
+"faculty": "Law",
+"department": "Squire Law Library",
+"monthly-readings": ["S027-squire.law-2008-08.json"],
+"path": "/energyData/S027-squire.law-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Isaac Newton Institute for Mathematical Sciences",
+"department": "Isaac Newton Institute for Mathematical Studies",
+"monthly-readings": ["S028-newton-2008-08.json"],
+"path": "/energyData/S028-newton-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Law",
+"department": "International Law, Centre for",
+"monthly-readings": ["S029-lcil-2008-08.json"],
+"path": "/energyData/S029-lcil-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Divinity",
+"department": "Divinity",
+"monthly-readings": ["S030-divinity-2008-08.json"],
+"path": "/energyData/S030-divinity-"
+}
+,
+{
+"school": "University Library",
+"faculty": "",
+"department": "Central Science Library",
+"monthly-readings": ["S034-lib.csl-2008-08.json"],
+"path": "/energyData/S034-lib.csl-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Isaac Newton Institute for Mathematical Sciences",
+"department": "Isaac Newton Institute for Mathematical Studies",
+"monthly-readings": ["S036-newton-2008-08.json"],
+"path": "/energyData/S036-newton-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Institute of Criminology",
+"department": "Criminology, Institute of",
+"monthly-readings": ["S039-crim-2008-08.json"],
+"path": "/energyData/S039-crim-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "English",
+"department": "Anglo-Saxon, Norse and Celtic",
+"monthly-readings": ["S040-asnc-2008-08.json"],
+"path": "/energyData/S040-asnc-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "English",
+"department": "English",
+"monthly-readings": ["S040-english-2008-08.json"],
+"path": "/energyData/S040-english-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Modern and Medieval Languages",
+"department": "English and Applied Linguistics, Research Centre f",
+"monthly-readings": ["S040-mml-2008-08.json"],
+"path": "/energyData/S040-mml-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Music",
+"department": "Music",
+"monthly-readings": ["S048-mus-2008-08.json"],
+"path": "/energyData/S048-mus-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Music",
+"department": "Music",
+"monthly-readings": ["S049-mus-2008-08.json"],
+"path": "/energyData/S049-mus-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Classics",
+"department": "Classics",
+"monthly-readings": ["S050-classics-2008-08.json"],
+"path": "/energyData/S050-classics-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Classics",
+"department": "Museum of Classical Archaeology",
+"monthly-readings": ["S050-classics.museum-2008-08.json"],
+"path": "/energyData/S050-classics.museum-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Classics",
+"department": "Classics",
+"monthly-readings": ["S051-classics-2008-08.json"],
+"path": "/energyData/S051-classics-"
+}
+,
+{
+"school": "Arts and Humanities",
+"faculty": "Classics",
+"department": "Classics",
+"monthly-readings": ["S052-classics-2008-08.json"],
+"path": "/energyData/S052-classics-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Centre for Mathematical Sciences",
+"monthly-readings": ["S054-cms-2008-08.json"],
+"path": "/energyData/S054-cms-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Applied Mathematics & Theoretical Physics",
+"monthly-readings": ["S054-damtp-2008-08.json"],
+"path": "/energyData/S054-damtp-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Centre for Mathematical Sciences",
+"monthly-readings": ["S055-cms-2008-08.json"],
+"path": "/energyData/S055-cms-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Applied Mathematics & Theoretical Physics",
+"monthly-readings": ["S055-damtp-2008-08.json"],
+"path": "/energyData/S055-damtp-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Centre for Mathematical Sciences",
+"monthly-readings": ["S056-cms-2008-08.json"],
+"path": "/energyData/S056-cms-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Applied Mathematics & Theoretical Physics",
+"monthly-readings": ["S056-damtp-2008-08.json"],
+"path": "/energyData/S056-damtp-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Pure Mathematics & Mathematical Statistics",
+"monthly-readings": ["S056-dpmms-2008-08.json"],
+"path": "/energyData/S056-dpmms-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Centre for Mathematical Sciences",
+"monthly-readings": ["S057-cms-2008-08.json"],
+"path": "/energyData/S057-cms-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Pure Mathematics & Mathematical Statistics",
+"monthly-readings": ["S057-dpmms-2008-08.json"],
+"path": "/energyData/S057-dpmms-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Centre for Mathematical Sciences",
+"monthly-readings": ["S058-cms-2008-08.json"],
+"path": "/energyData/S058-cms-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Applied Mathematics & Theoretical Physics",
+"monthly-readings": ["S058-damtp-2008-08.json"],
+"path": "/energyData/S058-damtp-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Pure Mathematics & Mathematical Statistics",
+"monthly-readings": ["S058-dpmms-2008-08.json"],
+"path": "/energyData/S058-dpmms-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Applied Mathematics & Theoretical Physics",
+"monthly-readings": ["S059-damtp-2008-08.json"],
+"path": "/energyData/S059-damtp-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Centre for Mathematical Sciences",
+"monthly-readings": ["S060-cms-2008-08.json"],
+"path": "/energyData/S060-cms-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Applied Mathematics & Theoretical Physics",
+"monthly-readings": ["S060-damtp-2008-08.json"],
+"path": "/energyData/S060-damtp-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Applied Mathematics & Theoretical Physics",
+"monthly-readings": ["S061-damtp-2008-08.json"],
+"path": "/energyData/S061-damtp-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Mathematics",
+"department": "Applied Mathematics & Theoretical Physics",
+"monthly-readings": ["S063-damtp-2008-08.json"],
+"path": "/energyData/S063-damtp-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["T011-esc-2008-08.json"],
+"path": "/energyData/T011-esc-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Astronomy",
+"monthly-readings": ["T013-ast-2008-08.json"],
+"path": "/energyData/T013-ast-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Astronomy",
+"monthly-readings": ["T014-ast-2008-08.json"],
+"path": "/energyData/T014-ast-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Astronomy",
+"monthly-readings": ["T015-ast-2008-08.json"],
+"path": "/energyData/T015-ast-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Astronomy",
+"monthly-readings": ["T016-ast-2008-08.json"],
+"path": "/energyData/T016-ast-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Astronomy",
+"monthly-readings": ["T017-ast-2008-08.json"],
+"path": "/energyData/T017-ast-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Astronomy",
+"monthly-readings": ["T020-ast-2008-08.json"],
+"path": "/energyData/T020-ast-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Astronomy",
+"monthly-readings": ["T021-ast-2008-08.json"],
+"path": "/energyData/T021-ast-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Astronomy",
+"monthly-readings": ["T022-ast-2008-08.json"],
+"path": "/energyData/T022-ast-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["T023-esc-2008-08.json"],
+"path": "/energyData/T023-esc-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["T024-esc-2008-08.json"],
+"path": "/energyData/T024-esc-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["T025-esc-2008-08.json"],
+"path": "/energyData/T025-esc-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["T026-esc-2008-08.json"],
+"path": "/energyData/T026-esc-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["T027-esc-2008-08.json"],
+"path": "/energyData/T027-esc-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Earth Sciences",
+"monthly-readings": ["T030-esc-2008-08.json"],
+"path": "/energyData/T030-esc-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Sedgwick Museum of Earth Science",
+"monthly-readings": ["T031-sedgwickmuseum-2008-08.json"],
+"path": "/energyData/T031-sedgwickmuseum-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Academic Division",
+"monthly-readings": ["T032-academic-2008-08.json"],
+"path": "/energyData/T032-academic-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Central Administration shared facilities",
+"monthly-readings": ["T032-admin-2008-08.json"],
+"path": "/energyData/T032-admin-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Astronomy",
+"monthly-readings": ["T032-ast-2008-08.json"],
+"path": "/energyData/T032-ast-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "CHRIS Project",
+"monthly-readings": ["T032-chris-2008-08.json"],
+"path": "/energyData/T032-chris-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["T032-em-2008-08.json"],
+"path": "/energyData/T032-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["T032-embs-2008-08.json"],
+"path": "/energyData/T032-embs-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Finance Division",
+"monthly-readings": ["T032-finance-2008-08.json"],
+"path": "/energyData/T032-finance-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Human Resources Division",
+"monthly-readings": ["T032-hr-2008-08.json"],
+"path": "/energyData/T032-hr-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Continuing Education, Institute of",
+"monthly-readings": ["T032-ice-2008-08.json"],
+"path": "/energyData/T032-ice-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Management Information Services Division",
+"monthly-readings": ["T032-misd-2008-08.json"],
+"path": "/energyData/T032-misd-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Registrary's Office",
+"monthly-readings": ["T032-registrary-2008-08.json"],
+"path": "/energyData/T032-registrary-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "",
+"department": "University Biomedical Support Services (UBSS)",
+"monthly-readings": ["T032-ubss-2008-08.json"],
+"path": "/energyData/T032-ubss-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Kavli Institute Shared 50/50",
+"monthly-readings": ["T036-kicc-2008-08.json"],
+"path": "/energyData/T036-kicc-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["W010-phy-2008-08.json"],
+"path": "/energyData/W010-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["W011-phy-2008-08.json"],
+"path": "/energyData/W011-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["W012-phy-2008-08.json"],
+"path": "/energyData/W012-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["W016-phy-2008-08.json"],
+"path": "/energyData/W016-phy-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["W017-eng-2008-08.json"],
+"path": "/energyData/W017-eng-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "Sports Facility",
+"monthly-readings": ["W018-sport-2008-08.json"],
+"path": "/energyData/W018-sport-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W020-vet-2008-08.json"],
+"path": "/energyData/W020-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W023-vet-2008-08.json"],
+"path": "/energyData/W023-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W024-vet-2008-08.json"],
+"path": "/energyData/W024-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W027-vet-2008-08.json"],
+"path": "/energyData/W027-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W033-vet-2008-08.json"],
+"path": "/energyData/W033-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W034-vet-2008-08.json"],
+"path": "/energyData/W034-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Biology",
+"department": "Physiology, Development & Neuroscience",
+"monthly-readings": ["W035-pdn-2008-08.json"],
+"path": "/energyData/W035-pdn-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Psychiatry",
+"department": "Experimental Psychology",
+"monthly-readings": ["W035-sdp-2008-08.json"],
+"path": "/energyData/W035-sdp-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W035-vet-2008-08.json"],
+"path": "/energyData/W035-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W036-vet-2008-08.json"],
+"path": "/energyData/W036-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W037-vet-2008-08.json"],
+"path": "/energyData/W037-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W038-vet-2008-08.json"],
+"path": "/energyData/W038-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W039-vet-2008-08.json"],
+"path": "/energyData/W039-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W040-vet-2008-08.json"],
+"path": "/energyData/W040-vet-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Archaeology",
+"monthly-readings": ["W042-arch-2008-08.json"],
+"path": "/energyData/W042-arch-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "",
+"department": "Cambridge Archaeological Unit",
+"monthly-readings": ["W042-cau.arch-2008-08.json"],
+"path": "/energyData/W042-cau.arch-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management",
+"monthly-readings": ["W042-em-2008-08.json"],
+"path": "/energyData/W042-em-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Estate Management & Building Service",
+"monthly-readings": ["W042-embs-2008-08.json"],
+"path": "/energyData/W042-embs-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["W042-eng-2008-08.json"],
+"path": "/energyData/W042-eng-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Board of Examinations",
+"monthly-readings": ["W042-exams-2008-08.json"],
+"path": "/energyData/W042-exams-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Human Resources Division",
+"monthly-readings": ["W042-hr-2008-08.json"],
+"path": "/energyData/W042-hr-"
+}
+,
+{
+"school": "University Library",
+"faculty": "",
+"department": "Central Science Library",
+"monthly-readings": ["W042-lib.csl-2008-08.json"],
+"path": "/energyData/W042-lib.csl-"
+}
+,
+{
+"school": "Humanities and Social Sciences",
+"faculty": "Human, Social and Political Science",
+"department": "Museum of Archaeology and Anthropology",
+"monthly-readings": ["W042-maa-2008-08.json"],
+"path": "/energyData/W042-maa-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Health and Safety Division",
+"monthly-readings": ["W042-safety-2008-08.json"],
+"path": "/energyData/W042-safety-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Earth Sciences & Geography",
+"department": "Sedgwick Museum of Earth Science",
+"monthly-readings": ["W042-sedgwickmuseum-2008-08.json"],
+"path": "/energyData/W042-sedgwickmuseum-"
+}
+,
+{
+"school": "Other",
+"faculty": "University Computing Service",
+"department": "Computing Service",
+"monthly-readings": ["W042-ucs-2008-08.json"],
+"path": "/energyData/W042-ucs-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["W043-eng-2008-08.json"],
+"path": "/energyData/W043-eng-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Chemical Engineering & Biotechnology",
+"department": "Chemical Engineering",
+"monthly-readings": ["W044-ceb-2008-08.json"],
+"path": "/energyData/W044-ceb-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["W045-phy-2008-08.json"],
+"path": "/energyData/W045-phy-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Computer Science & Technology",
+"department": "Computer Laboratory",
+"monthly-readings": ["W046-cl-2008-08.json"],
+"path": "/energyData/W046-cl-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["W046-eng-2008-08.json"],
+"path": "/energyData/W046-eng-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Cambridge Enterprise",
+"monthly-readings": ["W046-enterprise-2008-08.json"],
+"path": "/energyData/W046-enterprise-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["W048-eng-2008-08.json"],
+"path": "/energyData/W048-eng-"
+}
+,
+{
+"school": "Non Operational",
+"faculty": "",
+"department": "Cambridge Network",
+"monthly-readings": ["W053-cambridgenetwork-2008-08.json"],
+"path": "/energyData/W053-cambridgenetwork-"
+}
+,
+{
+"school": "Non Operational",
+"faculty": "",
+"department": "Cronto Ltd",
+"monthly-readings": ["W053-cronto-2008-08.json"],
+"path": "/energyData/W053-cronto-"
+}
+,
+{
+"school": "Central Administration",
+"faculty": "",
+"department": "Cambridge Enterprise",
+"monthly-readings": ["W053-enterprise-2008-08.json"],
+"path": "/energyData/W053-enterprise-"
+}
+,
+{
+"school": "Non Operational",
+"faculty": "",
+"department": "Hauser Seminar Space",
+"monthly-readings": ["W053-hauserforum-2008-08.json"],
+"path": "/energyData/W053-hauserforum-"
+}
+,
+{
+"school": "Non Operational",
+"faculty": "",
+"department": "Idea Space",
+"monthly-readings": ["W053-ideaspace-2008-08.json"],
+"path": "/energyData/W053-ideaspace-"
+}
+,
+{
+"school": "Non Operational",
+"faculty": "",
+"department": "Praxis Courses Ltd",
+"monthly-readings": ["W053-praxiscourses-2008-08.json"],
+"path": "/energyData/W053-praxiscourses-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "University Centre",
+"monthly-readings": ["W053-unicen-2008-08.json"],
+"path": "/energyData/W053-unicen-"
+}
+,
+{
+"school": "Technology",
+"faculty": "",
+"department": "The NanoScience Centre",
+"monthly-readings": ["W054-nanoscience-2008-08.json"],
+"path": "/energyData/W054-nanoscience-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W055-vet-2008-08.json"],
+"path": "/energyData/W055-vet-"
+}
+,
+{
+"school": "Biological Science",
+"faculty": "Veterinary Medicine",
+"department": "Veterinary Medicine",
+"monthly-readings": ["W059-vet-2008-08.json"],
+"path": "/energyData/W059-vet-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "Physics & Chemistry",
+"department": "Physics",
+"monthly-readings": ["W062-phy-2008-08.json"],
+"path": "/energyData/W062-phy-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Physics of Medicine",
+"monthly-readings": ["W062-pom-2008-08.json"],
+"path": "/energyData/W062-pom-"
+}
+,
+{
+"school": "Physical Science",
+"faculty": "",
+"department": "Unallocated Accommodation",
+"monthly-readings": ["W062-ua-2008-08.json"],
+"path": "/energyData/W062-ua-"
+}
+,
+{
+"school": "Technology",
+"faculty": "Engineering",
+"department": "Engineering",
+"monthly-readings": ["W074-eng-2008-08.json"],
+"path": "/energyData/W074-eng-"
+}
+,
+{
+"school": "Other",
+"faculty": "",
+"department": "University Centre",
+"monthly-readings": ["W091-unicen-2008-08.json"],
+"path": "/energyData/W091-unicen-"
+}
+]}}
